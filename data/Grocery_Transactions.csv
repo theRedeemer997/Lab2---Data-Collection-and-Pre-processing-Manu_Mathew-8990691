@@ -1,0 +1,1001 @@
+date,customer_id,product,product_id,price,quantity,shipping_city,coupon_id
+2025-05-26,3000,Apples,1,13.23,3,Ottawa,1
+2025-05-04,3001,Milk,4,27.94,1,Vancouver,4
+2025-05-19,3002,Tomatoes,9,13.72,6,Ottawa,5
+2025-05-16,3003,Tomatoes,9,44.79,4,Halifax,2
+2025-05-07,3004,Tomatoes,9,2.21,1,Winnipeg,3
+2025-05-04,3005,Orange Juice,14,29.56,10,Calgary,2
+2025-05-12,3006,Bananas,2,3.39,8,Toronto,2
+2025-05-15,3007,Eggs,5,33.6,2,Halifax,6
+2025-05-12,3008,Apples,1,43.55,9,Ottawa,1
+2025-05-05,3009,Orange Juice,14,3.55,4,Ottawa,3
+2025-05-08,3010,Chicken Breast,6,15.63,4,Halifax,1
+2025-05-14,3011,Eggs,5,12.7,9,Edmonton,4
+2025-05-09,3012,Apples,1,18.4,9,Montreal,2
+2025-05-17,3013,Chicken Breast,6,45.2,8,Edmonton,3
+2025-05-15,3014,Cheese,12,29.96,5,Calgary,5
+2025-05-14,3015,Potatoes,10,4.44,10,Ottawa,1
+2025-05-31,3016,Bananas,2,28.6,3,Winnipeg,5
+2025-05-20,3017,Pasta,8,48.2,6,Ottawa,4
+2025-05-26,3018,Eggs,5,48.62,6,Edmonton,3
+2025-05-17,3019,Milk,4,45.03,3,Winnipeg,1
+2025-05-31,3020,Chicken Breast,6,14.17,6,Toronto,3
+2025-05-29,3021,Potatoes,10,37.37,2,Calgary,6
+2025-05-17,3022,Pasta,8,24.72,7,Vancouver,1
+2025-05-19,3023,Bananas,2,23.46,2,Edmonton,4
+2025-05-31,3024,Cheese,12,2.97,6,Winnipeg,4
+2025-05-16,3025,Onions,11,28.35,10,Calgary,6
+2025-05-19,3026,Bananas,2,38.77,3,Toronto,1
+2025-05-10,3027,Bread,3,11.59,5,Halifax,5
+2025-05-26,3028,Bread,3,49.15,5,Vancouver,4
+2025-05-11,3029,Rice,7,6.3,5,Winnipeg,2
+2025-05-10,3030,Potatoes,10,45.89,6,Vancouver,6
+2025-05-14,3031,Milk,4,3.5,9,Vancouver,5
+2025-05-22,3032,Pasta,8,4.01,5,Montreal,3
+2025-05-27,3033,Potatoes,10,39.29,6,Winnipeg,4
+2025-05-03,3034,Apples,1,39.27,3,Halifax,3
+2025-05-06,3035,Pasta,8,35.07,3,Ottawa,1
+2025-05-26,3036,Cereal,15,15.6,4,Toronto,3
+2025-05-30,3037,Cheese,12,33.45,8,Ottawa,3
+2025-05-17,3038,Apples,1,2.09,9,Ottawa,6
+2025-05-24,3039,Chicken Breast,6,33.33,5,Edmonton,1
+2025-05-13,3040,Bread,3,41.17,10,Halifax,3
+2025-05-08,3041,Cheese,12,37.58,8,Vancouver,3
+2025-05-18,3042,Cereal,15,30.02,6,Calgary,5
+2025-05-04,3043,Rice,7,21.71,10,Winnipeg,6
+2025-05-19,3044,Apples,1,31.48,8,Vancouver,3
+2025-05-02,3045,Pasta,8,36.79,3,Ottawa,4
+2025-05-15,3046,Milk,4,15.44,4,Winnipeg,4
+2025-05-31,3047,Apples,1,23.29,6,Vancouver,2
+2025-05-08,3048,Pasta,8,25.13,2,Halifax,4
+2025-05-22,3049,Bread,3,18.45,5,Vancouver,4
+2025-05-16,3050,Orange Juice,14,23.72,9,Winnipeg,5
+2025-05-10,3051,Eggs,5,35.93,10,Edmonton,1
+2025-05-04,3052,Pasta,8,31.55,6,Ottawa,6
+2025-05-03,3053,Bread,3,20.97,6,Edmonton,4
+2025-05-29,3054,Yogurt,13,43.87,4,Winnipeg,2
+2025-05-09,3055,Chicken Breast,6,24.23,8,Edmonton,2
+2025-05-14,3056,Eggs,5,30.39,7,Halifax,4
+2025-05-03,3057,Bananas,2,22.43,2,Toronto,1
+2025-05-19,3058,Cereal,15,17.75,6,Calgary,4
+2025-05-28,3059,Apples,1,39.4,4,Ottawa,6
+2025-05-12,3060,Orange Juice,14,31.43,2,Vancouver,1
+2025-05-11,3061,Rice,7,34.65,6,Halifax,3
+2025-05-08,3062,Onions,11,44.8,6,Montreal,4
+2025-05-02,3063,Pasta,8,36.64,5,Toronto,4
+2025-05-11,3064,Pasta,8,7.54,4,Halifax,2
+2025-05-17,3065,Cheese,12,4.05,4,Montreal,6
+2025-05-11,3066,Milk,4,27.73,2,Calgary,5
+2025-05-14,3067,Cheese,12,27.11,1,Ottawa,1
+2025-05-28,3068,Eggs,5,42.83,8,Toronto,5
+2025-05-12,3069,Apples,1,16.08,3,Montreal,6
+2025-05-05,3070,Rice,7,6.25,2,Toronto,1
+2025-05-25,3071,Eggs,5,2.54,10,Winnipeg,3
+2025-05-01,3072,Potatoes,10,33.4,3,Winnipeg,3
+2025-05-01,3073,Potatoes,10,17.89,4,Edmonton,3
+2025-05-15,3074,Eggs,5,40.39,4,Halifax,5
+2025-05-24,3075,Chicken Breast,6,25.37,6,Montreal,1
+2025-05-07,3076,Cereal,15,25.36,5,Vancouver,2
+2025-05-15,3077,Cheese,12,19.36,9,Ottawa,6
+2025-05-16,3078,Cheese,12,14.0,10,Halifax,3
+2025-05-14,3079,Tomatoes,9,35.67,5,Winnipeg,4
+2025-05-18,3080,Cheese,12,16.26,6,Edmonton,5
+2025-05-07,3081,Onions,11,26.13,6,Calgary,3
+2025-05-26,3082,Pasta,8,24.37,4,Winnipeg,5
+2025-05-06,3083,Pasta,8,5.93,7,Halifax,5
+2025-05-20,3084,Cereal,15,37.15,1,Winnipeg,3
+2025-05-17,3085,Bananas,2,42.41,4,Toronto,4
+2025-05-02,3086,Bananas,2,5.62,9,Edmonton,5
+2025-05-01,3087,Potatoes,10,11.49,3,Toronto,1
+2025-05-29,3088,Yogurt,13,39.13,10,Vancouver,2
+2025-05-02,3089,Milk,4,44.26,2,Toronto,4
+2025-05-18,3090,Chicken Breast,6,17.39,7,Edmonton,4
+2025-05-27,3091,Bread,3,13.45,9,Vancouver,3
+2025-05-11,3092,Apples,1,42.07,8,Edmonton,2
+2025-05-20,3093,Milk,4,13.76,2,Edmonton,3
+2025-05-28,3094,Onions,11,16.59,7,Toronto,2
+2025-05-16,3095,Orange Juice,14,20.86,1,Ottawa,3
+2025-05-24,3096,Chicken Breast,6,38.54,3,Montreal,1
+2025-05-01,3097,Bread,3,21.12,9,Calgary,4
+2025-05-19,3098,Onions,11,4.17,3,Edmonton,4
+2025-05-14,3099,Tomatoes,9,36.92,4,Halifax,5
+2025-05-07,3100,Cheese,12,29.38,1,Winnipeg,2
+2025-05-24,3101,Cheese,12,5.93,6,Calgary,2
+2025-05-14,3102,Tomatoes,9,34.01,8,Winnipeg,6
+2025-05-01,3103,Tomatoes,9,45.2,5,Halifax,5
+2025-05-01,3104,Bread,3,16.91,5,Halifax,3
+2025-05-02,3105,Milk,4,43.88,1,Ottawa,2
+2025-05-29,3106,Bread,3,10.0,2,Calgary,4
+2025-05-21,3107,Cereal,15,19.26,7,Toronto,4
+2025-05-20,3108,Tomatoes,9,25.3,4,Calgary,4
+2025-05-31,3109,Potatoes,10,25.61,3,Edmonton,5
+2025-05-06,3110,Rice,7,29.7,5,Calgary,1
+2025-05-02,3111,Rice,7,44.89,1,Vancouver,4
+2025-05-23,3112,Tomatoes,9,39.58,2,Toronto,2
+2025-05-31,3113,Orange Juice,14,47.55,9,Edmonton,1
+2025-05-20,3114,Onions,11,34.46,8,Ottawa,4
+2025-05-05,3115,Milk,4,42.04,9,Halifax,4
+2025-05-08,3116,Orange Juice,14,6.7,9,Toronto,1
+2025-05-11,3117,Apples,1,2.28,7,Montreal,4
+2025-05-21,3118,Yogurt,13,34.37,5,Vancouver,4
+2025-05-31,3119,Bread,3,34.88,1,Vancouver,4
+2025-05-09,3120,Apples,1,43.6,2,Toronto,6
+2025-05-11,3121,Bananas,2,34.71,2,Halifax,5
+2025-05-15,3122,Cereal,15,40.33,6,Calgary,1
+2025-05-09,3123,Bread,3,49.84,9,Toronto,5
+2025-05-05,3124,Apples,1,6.7,1,Winnipeg,1
+2025-05-15,3125,Potatoes,10,37.55,1,Vancouver,6
+2025-05-24,3126,Cheese,12,32.85,1,Calgary,5
+2025-05-01,3127,Cereal,15,49.26,5,Montreal,2
+2025-05-09,3128,Orange Juice,14,45.66,6,Edmonton,1
+2025-05-20,3129,Bread,3,24.85,2,Edmonton,6
+2025-05-30,3130,Chicken Breast,6,34.72,7,Vancouver,1
+2025-05-23,3131,Apples,1,48.77,4,Edmonton,2
+2025-05-11,3132,Yogurt,13,38.82,4,Winnipeg,2
+2025-05-06,3133,Pasta,8,20.14,10,Ottawa,1
+2025-05-12,3134,Chicken Breast,6,21.98,7,Ottawa,6
+2025-05-25,3135,Onions,11,5.66,1,Toronto,6
+2025-05-23,3136,Yogurt,13,23.83,8,Calgary,6
+2025-05-06,3137,Orange Juice,14,30.22,2,Ottawa,4
+2025-05-08,3138,Apples,1,19.24,4,Montreal,3
+2025-05-12,3139,Cheese,12,47.71,1,Edmonton,4
+2025-05-15,3140,Cereal,15,44.48,5,Toronto,1
+2025-05-22,3141,Tomatoes,9,28.46,10,Ottawa,1
+2025-05-08,3142,Potatoes,10,37.96,10,Winnipeg,5
+2025-05-12,3143,Tomatoes,9,10.63,2,Calgary,3
+2025-05-20,3144,Onions,11,17.36,4,Ottawa,4
+2025-05-06,3145,Pasta,8,39.91,10,Calgary,2
+2025-05-12,3146,Chicken Breast,6,16.63,7,Edmonton,5
+2025-05-11,3147,Cereal,15,15.65,7,Halifax,1
+2025-05-04,3148,Bananas,2,22.13,5,Vancouver,1
+2025-05-15,3149,Potatoes,10,13.28,9,Halifax,1
+2025-05-15,3150,Tomatoes,9,30.2,2,Winnipeg,3
+2025-05-08,3151,Eggs,5,3.95,3,Vancouver,2
+2025-05-25,3152,Rice,7,3.59,7,Winnipeg,4
+2025-05-14,3153,Orange Juice,14,11.18,7,Montreal,3
+2025-05-12,3154,Onions,11,30.25,8,Calgary,3
+2025-05-08,3155,Chicken Breast,6,32.74,3,Calgary,1
+2025-05-18,3156,Tomatoes,9,30.94,9,Toronto,4
+2025-05-19,3157,Bread,3,44.44,8,Halifax,1
+2025-05-22,3158,Yogurt,13,48.14,4,Ottawa,3
+2025-05-13,3159,Cheese,12,42.49,8,Halifax,3
+2025-05-15,3160,Chicken Breast,6,46.86,3,Halifax,5
+2025-05-18,3161,Yogurt,13,41.65,1,Ottawa,6
+2025-05-17,3162,Bananas,2,17.24,4,Edmonton,4
+2025-05-17,3163,Pasta,8,3.04,10,Edmonton,1
+2025-05-18,3164,Milk,4,21.02,7,Vancouver,3
+2025-05-02,3165,Cheese,12,11.06,9,Vancouver,6
+2025-05-28,3166,Rice,7,40.7,1,Halifax,2
+2025-05-20,3167,Eggs,5,18.47,6,Vancouver,2
+2025-05-03,3168,Eggs,5,12.04,7,Montreal,4
+2025-05-03,3169,Chicken Breast,6,21.8,7,Ottawa,2
+2025-05-12,3170,Yogurt,13,47.12,5,Halifax,5
+2025-05-19,3171,Bananas,2,8.54,2,Montreal,3
+2025-05-19,3172,Bread,3,45.07,4,Edmonton,3
+2025-05-22,3173,Eggs,5,13.89,2,Ottawa,2
+2025-05-07,3174,Tomatoes,9,4.67,7,Edmonton,2
+2025-05-15,3175,Cheese,12,16.92,9,Toronto,6
+2025-05-18,3176,Chicken Breast,6,45.59,9,Edmonton,3
+2025-05-07,3177,Orange Juice,14,40.42,7,Calgary,4
+2025-05-25,3178,Cereal,15,43.49,1,Edmonton,4
+2025-05-08,3179,Cheese,12,44.8,9,Calgary,5
+2025-05-12,3180,Rice,7,11.22,3,Halifax,6
+2025-05-26,3181,Apples,1,45.8,3,Calgary,5
+2025-05-04,3182,Potatoes,10,46.52,4,Calgary,1
+2025-05-04,3183,Onions,11,29.57,9,Edmonton,1
+2025-05-22,3184,Bread,3,22.5,4,Calgary,3
+2025-05-15,3185,Potatoes,10,5.14,6,Winnipeg,5
+2025-05-20,3186,Pasta,8,10.25,3,Winnipeg,4
+2025-05-24,3187,Rice,7,40.86,1,Edmonton,6
+2025-05-19,3188,Orange Juice,14,11.1,2,Halifax,1
+2025-05-27,3189,Pasta,8,35.68,7,Vancouver,5
+2025-05-12,3190,Milk,4,24.22,4,Toronto,3
+2025-05-30,3191,Cereal,15,15.36,8,Vancouver,2
+2025-05-16,3192,Eggs,5,43.5,9,Ottawa,1
+2025-05-07,3193,Eggs,5,40.33,8,Winnipeg,2
+2025-05-16,3194,Bread,3,32.71,1,Edmonton,4
+2025-05-30,3195,Eggs,5,19.2,6,Halifax,6
+2025-05-02,3196,Onions,11,22.55,4,Edmonton,4
+2025-05-14,3197,Bread,3,26.86,5,Ottawa,4
+2025-05-14,3198,Cereal,15,34.01,7,Winnipeg,5
+2025-05-31,3199,Apples,1,23.41,7,Winnipeg,3
+2025-05-13,3200,Pasta,8,3.58,3,Halifax,5
+2025-05-20,3201,Bread,3,5.42,5,Vancouver,2
+2025-05-21,3202,Bread,3,29.5,9,Vancouver,3
+2025-05-17,3203,Yogurt,13,14.17,8,Montreal,6
+2025-05-13,3204,Milk,4,38.9,8,Montreal,6
+2025-05-16,3205,Potatoes,10,21.69,9,Halifax,3
+2025-05-26,3206,Pasta,8,8.13,6,Montreal,3
+2025-05-01,3207,Rice,7,49.83,5,Ottawa,1
+2025-05-18,3208,Cereal,15,31.33,7,Halifax,1
+2025-05-20,3209,Milk,4,16.68,6,Vancouver,4
+2025-05-13,3210,Eggs,5,29.72,3,Vancouver,3
+2025-05-28,3211,Chicken Breast,6,31.34,9,Ottawa,5
+2025-05-05,3212,Apples,1,14.74,8,Winnipeg,6
+2025-05-06,3213,Tomatoes,9,41.27,10,Toronto,3
+2025-05-25,3214,Onions,11,8.99,10,Montreal,2
+2025-05-24,3215,Rice,7,30.86,7,Edmonton,2
+2025-05-27,3216,Cereal,15,30.53,9,Calgary,6
+2025-05-17,3217,Cheese,12,18.63,10,Halifax,3
+2025-05-25,3218,Tomatoes,9,14.28,4,Vancouver,6
+2025-05-22,3219,Cheese,12,7.5,6,Winnipeg,2
+2025-05-05,3220,Tomatoes,9,18.5,8,Toronto,3
+2025-05-23,3221,Onions,11,41.22,2,Toronto,2
+2025-05-28,3222,Onions,11,17.15,1,Ottawa,6
+2025-05-30,3223,Cheese,12,33.46,2,Montreal,3
+2025-05-22,3224,Chicken Breast,6,46.03,9,Edmonton,5
+2025-05-24,3225,Onions,11,38.05,6,Winnipeg,1
+2025-05-23,3226,Pasta,8,4.44,10,Toronto,6
+2025-05-27,3227,Pasta,8,33.7,3,Ottawa,5
+2025-05-16,3228,Orange Juice,14,41.69,7,Vancouver,2
+2025-05-07,3229,Tomatoes,9,24.93,9,Edmonton,5
+2025-05-22,3230,Yogurt,13,49.8,5,Toronto,2
+2025-05-24,3231,Chicken Breast,6,13.72,7,Edmonton,1
+2025-05-18,3232,Yogurt,13,43.4,9,Calgary,6
+2025-05-27,3233,Tomatoes,9,11.01,9,Montreal,2
+2025-05-31,3234,Milk,4,24.67,8,Vancouver,3
+2025-05-27,3235,Rice,7,25.76,6,Ottawa,3
+2025-05-21,3236,Eggs,5,3.13,8,Edmonton,6
+2025-05-04,3237,Chicken Breast,6,7.9,1,Toronto,2
+2025-05-04,3238,Tomatoes,9,6.61,3,Edmonton,1
+2025-05-26,3239,Cereal,15,2.47,9,Montreal,1
+2025-05-15,3240,Eggs,5,10.11,10,Vancouver,4
+2025-05-26,3241,Orange Juice,14,37.32,2,Toronto,6
+2025-05-10,3242,Apples,1,24.61,5,Toronto,6
+2025-05-13,3243,Bananas,2,39.41,5,Ottawa,3
+2025-05-21,3244,Bananas,2,26.42,8,Calgary,2
+2025-05-27,3245,Milk,4,45.0,4,Halifax,5
+2025-05-14,3246,Yogurt,13,36.6,2,Edmonton,2
+2025-05-27,3247,Orange Juice,14,37.43,2,Vancouver,5
+2025-05-19,3248,Milk,4,9.39,6,Ottawa,5
+2025-05-26,3249,Bread,3,18.32,7,Edmonton,4
+2025-05-30,3250,Rice,7,39.65,7,Edmonton,4
+2025-05-10,3251,Orange Juice,14,3.85,4,Montreal,2
+2025-05-09,3252,Eggs,5,27.3,10,Calgary,3
+2025-05-01,3253,Apples,1,3.17,10,Edmonton,3
+2025-05-12,3254,Milk,4,47.11,5,Ottawa,3
+2025-05-16,3255,Potatoes,10,8.55,10,Winnipeg,3
+2025-05-16,3256,Eggs,5,36.55,5,Winnipeg,2
+2025-05-15,3257,Onions,11,18.63,2,Vancouver,6
+2025-05-09,3258,Tomatoes,9,30.64,1,Edmonton,1
+2025-05-21,3259,Bananas,2,4.05,3,Montreal,2
+2025-05-31,3260,Rice,7,11.36,7,Ottawa,3
+2025-05-20,3261,Yogurt,13,11.55,6,Montreal,6
+2025-05-26,3262,Rice,7,25.69,3,Vancouver,3
+2025-05-07,3263,Cereal,15,36.64,7,Montreal,1
+2025-05-07,3264,Yogurt,13,30.33,2,Ottawa,2
+2025-05-16,3265,Rice,7,12.87,8,Halifax,4
+2025-05-17,3266,Cereal,15,45.5,2,Calgary,2
+2025-05-15,3267,Potatoes,10,15.64,5,Toronto,4
+2025-05-19,3268,Tomatoes,9,19.36,5,Montreal,2
+2025-05-14,3269,Cheese,12,19.35,2,Winnipeg,4
+2025-05-09,3270,Potatoes,10,18.45,5,Montreal,5
+2025-05-03,3271,Tomatoes,9,26.57,8,Winnipeg,3
+2025-05-05,3272,Onions,11,3.97,5,Toronto,4
+2025-05-13,3273,Bread,3,10.58,4,Winnipeg,2
+2025-05-25,3274,Bread,3,5.93,6,Halifax,4
+2025-05-15,3275,Bananas,2,33.3,7,Toronto,3
+2025-05-17,3276,Bread,3,10.9,1,Halifax,1
+2025-05-22,3277,Chicken Breast,6,41.61,9,Vancouver,3
+2025-05-10,3278,Potatoes,10,48.81,2,Calgary,4
+2025-05-14,3279,Yogurt,13,4.46,4,Winnipeg,5
+2025-05-05,3280,Onions,11,48.17,9,Winnipeg,3
+2025-05-18,3281,Eggs,5,7.61,10,Toronto,2
+2025-05-22,3282,Rice,7,41.56,5,Ottawa,3
+2025-05-02,3283,Orange Juice,14,37.38,4,Winnipeg,1
+2025-05-15,3284,Milk,4,46.02,1,Toronto,1
+2025-05-11,3285,Pasta,8,31.72,5,Edmonton,5
+2025-05-11,3286,Chicken Breast,6,39.0,7,Montreal,6
+2025-05-12,3287,Onions,11,2.63,1,Vancouver,1
+2025-05-27,3288,Cereal,15,17.4,1,Edmonton,5
+2025-05-19,3289,Tomatoes,9,32.77,3,Calgary,2
+2025-05-12,3290,Bananas,2,30.63,3,Vancouver,6
+2025-05-31,3291,Yogurt,13,41.04,2,Vancouver,6
+2025-05-06,3292,Rice,7,45.62,8,Calgary,4
+2025-05-08,3293,Bananas,2,13.84,3,Montreal,6
+2025-05-31,3294,Potatoes,10,44.77,10,Montreal,2
+2025-05-24,3295,Cereal,15,8.83,10,Ottawa,1
+2025-05-24,3296,Milk,4,25.02,3,Toronto,3
+2025-05-23,3297,Cheese,12,24.15,1,Montreal,3
+2025-05-28,3298,Milk,4,19.49,5,Edmonton,3
+2025-05-26,3299,Cereal,15,44.44,2,Ottawa,5
+2025-05-12,3300,Chicken Breast,6,44.73,8,Edmonton,6
+2025-05-12,3301,Eggs,5,36.39,1,Calgary,5
+2025-05-04,3302,Apples,1,27.27,9,Halifax,1
+2025-05-08,3303,Onions,11,34.31,1,Vancouver,1
+2025-05-27,3304,Bananas,2,25.23,5,Montreal,1
+2025-05-08,3305,Potatoes,10,48.01,10,Montreal,2
+2025-05-07,3306,Eggs,5,7.17,4,Calgary,4
+2025-05-13,3307,Onions,11,6.42,10,Toronto,1
+2025-05-10,3308,Tomatoes,9,38.86,5,Vancouver,5
+2025-05-23,3309,Rice,7,49.72,8,Montreal,4
+2025-05-30,3310,Rice,7,29.69,9,Ottawa,2
+2025-05-18,3311,Milk,4,40.54,7,Calgary,6
+2025-05-07,3312,Cereal,15,3.63,2,Ottawa,4
+2025-05-13,3313,Bananas,2,31.41,10,Edmonton,1
+2025-05-30,3314,Yogurt,13,17.18,3,Vancouver,2
+2025-05-17,3315,Cereal,15,12.11,6,Vancouver,3
+2025-05-20,3316,Tomatoes,9,49.1,9,Winnipeg,6
+2025-05-26,3317,Cereal,15,15.27,8,Winnipeg,3
+2025-05-25,3318,Cereal,15,19.48,10,Winnipeg,5
+2025-05-28,3319,Cheese,12,2.03,4,Vancouver,3
+2025-05-11,3320,Milk,4,24.98,3,Edmonton,3
+2025-05-14,3321,Eggs,5,15.71,5,Vancouver,3
+2025-05-05,3322,Cheese,12,21.93,2,Ottawa,2
+2025-05-02,3323,Cereal,15,23.27,5,Montreal,2
+2025-05-07,3324,Tomatoes,9,6.93,2,Edmonton,6
+2025-05-30,3325,Potatoes,10,32.66,8,Calgary,1
+2025-05-27,3326,Tomatoes,9,48.42,6,Edmonton,3
+2025-05-16,3327,Cheese,12,45.99,7,Calgary,1
+2025-05-18,3328,Chicken Breast,6,21.25,7,Ottawa,4
+2025-05-28,3329,Milk,4,16.62,9,Halifax,2
+2025-05-09,3330,Milk,4,20.31,7,Toronto,5
+2025-05-01,3331,Cereal,15,29.72,4,Winnipeg,5
+2025-05-21,3332,Apples,1,25.1,8,Ottawa,1
+2025-05-03,3333,Cheese,12,16.06,1,Toronto,4
+2025-05-02,3334,Pasta,8,44.02,4,Calgary,5
+2025-05-15,3335,Rice,7,11.03,6,Halifax,5
+2025-05-12,3336,Bread,3,41.26,2,Toronto,2
+2025-05-29,3337,Cereal,15,27.89,4,Winnipeg,6
+2025-05-21,3338,Eggs,5,45.11,2,Winnipeg,6
+2025-05-14,3339,Eggs,5,20.64,10,Ottawa,1
+2025-05-10,3340,Bread,3,20.76,9,Halifax,5
+2025-05-31,3341,Rice,7,36.56,2,Ottawa,3
+2025-05-09,3342,Potatoes,10,26.16,8,Ottawa,2
+2025-05-19,3343,Tomatoes,9,16.21,5,Edmonton,3
+2025-05-05,3344,Cereal,15,35.26,6,Halifax,2
+2025-05-09,3345,Potatoes,10,49.89,9,Edmonton,6
+2025-05-11,3346,Orange Juice,14,12.0,4,Vancouver,6
+2025-05-12,3347,Cheese,12,48.09,1,Edmonton,4
+2025-05-06,3348,Potatoes,10,28.7,4,Calgary,2
+2025-05-17,3349,Yogurt,13,21.92,10,Ottawa,1
+2025-05-30,3350,Bread,3,45.59,9,Calgary,2
+2025-05-28,3351,Chicken Breast,6,7.07,3,Winnipeg,6
+2025-05-19,3352,Orange Juice,14,25.47,6,Winnipeg,4
+2025-05-21,3353,Pasta,8,44.6,4,Edmonton,6
+2025-05-15,3354,Orange Juice,14,8.6,5,Vancouver,2
+2025-05-01,3355,Milk,4,30.21,9,Toronto,3
+2025-05-22,3356,Bread,3,43.73,3,Ottawa,6
+2025-05-04,3357,Pasta,8,24.4,6,Edmonton,6
+2025-05-26,3358,Milk,4,15.49,9,Montreal,4
+2025-05-26,3359,Cereal,15,46.13,9,Calgary,2
+2025-05-19,3360,Orange Juice,14,40.82,2,Halifax,2
+2025-05-01,3361,Apples,1,43.79,6,Calgary,4
+2025-05-20,3362,Eggs,5,42.59,7,Edmonton,1
+2025-05-04,3363,Chicken Breast,6,9.76,7,Montreal,6
+2025-05-19,3364,Orange Juice,14,39.57,5,Montreal,4
+2025-05-18,3365,Onions,11,19.96,4,Montreal,3
+2025-05-08,3366,Cereal,15,27.82,4,Toronto,4
+2025-05-22,3367,Pasta,8,49.66,10,Edmonton,4
+2025-05-31,3368,Onions,11,35.59,2,Montreal,1
+2025-05-25,3369,Onions,11,21.24,3,Winnipeg,5
+2025-05-05,3370,Yogurt,13,33.8,3,Edmonton,1
+2025-05-22,3371,Milk,4,13.04,3,Montreal,1
+2025-05-11,3372,Yogurt,13,27.76,4,Winnipeg,2
+2025-05-09,3373,Milk,4,40.52,1,Vancouver,5
+2025-05-05,3374,Eggs,5,40.61,4,Calgary,2
+2025-05-25,3375,Cheese,12,39.26,9,Halifax,1
+2025-05-22,3376,Orange Juice,14,26.53,8,Vancouver,5
+2025-05-27,3377,Potatoes,10,26.66,2,Ottawa,1
+2025-05-04,3378,Chicken Breast,6,5.43,8,Calgary,2
+2025-05-01,3379,Eggs,5,36.9,2,Edmonton,5
+2025-05-31,3380,Bread,3,28.43,4,Ottawa,2
+2025-05-10,3381,Bread,3,2.5,2,Edmonton,3
+2025-05-08,3382,Eggs,5,47.65,3,Vancouver,1
+2025-05-17,3383,Orange Juice,14,45.7,9,Vancouver,3
+2025-05-07,3384,Orange Juice,14,28.5,10,Halifax,4
+2025-05-07,3385,Cheese,12,18.6,3,Calgary,4
+2025-05-02,3386,Eggs,5,12.36,4,Halifax,4
+2025-05-31,3387,Yogurt,13,7.73,1,Halifax,3
+2025-05-01,3388,Rice,7,28.31,8,Ottawa,6
+2025-05-27,3389,Cheese,12,9.51,10,Halifax,1
+2025-05-06,3390,Cereal,15,14.13,4,Toronto,1
+2025-05-05,3391,Potatoes,10,24.67,7,Halifax,6
+2025-05-12,3392,Cheese,12,13.41,10,Vancouver,1
+2025-05-17,3393,Eggs,5,15.98,7,Toronto,3
+2025-05-10,3394,Potatoes,10,45.99,1,Vancouver,5
+2025-05-19,3395,Cereal,15,20.09,2,Ottawa,5
+2025-05-28,3396,Cheese,12,8.73,6,Halifax,1
+2025-05-12,3397,Onions,11,11.52,8,Edmonton,6
+2025-05-23,3398,Cereal,15,36.81,5,Ottawa,6
+2025-05-29,3399,Yogurt,13,31.62,3,Toronto,4
+2025-05-14,3400,Pasta,8,17.5,7,Toronto,2
+2025-05-06,3401,Eggs,5,40.69,4,Montreal,6
+2025-05-21,3402,Apples,1,33.73,2,Halifax,5
+2025-05-17,3403,Bananas,2,31.42,7,Montreal,5
+2025-05-03,3404,Orange Juice,14,42.01,8,Calgary,4
+2025-05-05,3405,Bananas,2,3.28,6,Edmonton,1
+2025-05-22,3406,Pasta,8,6.2,2,Vancouver,3
+2025-05-10,3407,Pasta,8,39.7,9,Edmonton,2
+2025-05-01,3408,Orange Juice,14,14.35,1,Ottawa,5
+2025-05-07,3409,Chicken Breast,6,47.93,10,Toronto,4
+2025-05-20,3410,Tomatoes,9,28.07,6,Calgary,6
+2025-05-02,3411,Rice,7,48.15,9,Montreal,5
+2025-05-07,3412,Pasta,8,12.59,4,Montreal,4
+2025-05-02,3413,Orange Juice,14,37.54,9,Toronto,4
+2025-05-10,3414,Orange Juice,14,23.06,6,Toronto,1
+2025-05-26,3415,Bananas,2,48.3,5,Vancouver,3
+2025-05-24,3416,Yogurt,13,40.81,2,Montreal,2
+2025-05-25,3417,Tomatoes,9,12.36,1,Edmonton,6
+2025-05-19,3418,Potatoes,10,4.97,1,Edmonton,3
+2025-05-12,3419,Chicken Breast,6,33.16,6,Ottawa,2
+2025-05-31,3420,Eggs,5,21.2,8,Ottawa,6
+2025-05-30,3421,Bananas,2,26.44,3,Winnipeg,4
+2025-05-23,3422,Milk,4,25.77,3,Toronto,3
+2025-05-12,3423,Tomatoes,9,4.88,5,Calgary,3
+2025-05-09,3424,Eggs,5,34.01,6,Toronto,2
+2025-05-24,3425,Tomatoes,9,4.54,10,Calgary,3
+2025-05-17,3426,Milk,4,19.27,4,Ottawa,6
+2025-05-21,3427,Bananas,2,4.2,2,Montreal,5
+2025-05-01,3428,Bread,3,11.7,8,Toronto,4
+2025-05-30,3429,Yogurt,13,21.29,9,Calgary,5
+2025-05-03,3430,Chicken Breast,6,6.37,7,Vancouver,1
+2025-05-26,3431,Tomatoes,9,32.61,7,Ottawa,6
+2025-05-26,3432,Cheese,12,48.18,3,Toronto,1
+2025-05-01,3433,Apples,1,31.17,5,Ottawa,4
+2025-05-28,3434,Milk,4,5.65,3,Vancouver,4
+2025-05-06,3435,Potatoes,10,11.9,5,Montreal,2
+2025-05-21,3436,Milk,4,30.57,3,Vancouver,3
+2025-05-20,3437,Rice,7,3.17,1,Ottawa,2
+2025-05-12,3438,Yogurt,13,20.92,2,Ottawa,6
+2025-05-04,3439,Onions,11,34.78,6,Montreal,5
+2025-05-29,3440,Potatoes,10,20.16,1,Winnipeg,1
+2025-05-13,3441,Orange Juice,14,32.97,4,Toronto,6
+2025-05-31,3442,Pasta,8,21.38,1,Calgary,3
+2025-05-27,3443,Apples,1,37.15,4,Edmonton,6
+2025-05-26,3444,Pasta,8,40.39,5,Vancouver,3
+2025-05-30,3445,Potatoes,10,13.42,4,Halifax,3
+2025-05-02,3446,Eggs,5,17.85,4,Winnipeg,1
+2025-05-30,3447,Chicken Breast,6,40.56,6,Ottawa,3
+2025-05-31,3448,Bread,3,39.28,1,Montreal,2
+2025-05-09,3449,Cheese,12,13.21,10,Halifax,1
+2025-05-29,3450,Orange Juice,14,42.07,6,Ottawa,3
+2025-05-29,3451,Cereal,15,10.62,6,Ottawa,2
+2025-05-23,3452,Eggs,5,3.52,6,Edmonton,3
+2025-05-01,3453,Orange Juice,14,10.62,1,Ottawa,6
+2025-05-07,3454,Cereal,15,19.72,9,Montreal,1
+2025-05-08,3455,Yogurt,13,45.82,5,Montreal,1
+2025-05-07,3456,Cereal,15,5.94,3,Halifax,4
+2025-05-01,3457,Eggs,5,11.07,4,Toronto,4
+2025-05-21,3458,Orange Juice,14,15.38,10,Vancouver,6
+2025-05-10,3459,Onions,11,40.5,4,Halifax,5
+2025-05-07,3460,Potatoes,10,35.08,3,Toronto,4
+2025-05-14,3461,Milk,4,23.1,7,Vancouver,1
+2025-05-29,3462,Onions,11,21.29,8,Winnipeg,2
+2025-05-10,3463,Yogurt,13,8.36,6,Halifax,3
+2025-05-09,3464,Eggs,5,44.75,9,Montreal,1
+2025-05-18,3465,Cheese,12,44.64,3,Ottawa,6
+2025-05-15,3466,Cereal,15,42.51,2,Halifax,2
+2025-05-19,3467,Milk,4,16.49,4,Halifax,5
+2025-05-17,3468,Rice,7,41.75,9,Calgary,2
+2025-05-24,3469,Tomatoes,9,16.39,10,Montreal,2
+2025-05-28,3470,Cereal,15,47.94,2,Halifax,4
+2025-05-02,3471,Cheese,12,9.02,9,Ottawa,2
+2025-05-04,3472,Eggs,5,5.41,5,Calgary,3
+2025-05-18,3473,Milk,4,48.13,10,Toronto,5
+2025-05-16,3474,Onions,11,13.03,1,Halifax,4
+2025-05-20,3475,Yogurt,13,38.4,10,Calgary,2
+2025-05-04,3476,Milk,4,9.57,9,Toronto,1
+2025-05-16,3477,Onions,11,24.41,10,Vancouver,2
+2025-05-01,3478,Tomatoes,9,11.52,6,Halifax,2
+2025-05-19,3479,Eggs,5,40.47,5,Winnipeg,5
+2025-05-14,3480,Eggs,5,21.08,5,Vancouver,1
+2025-05-20,3481,Yogurt,13,35.57,2,Halifax,6
+2025-05-09,3482,Apples,1,7.12,2,Vancouver,4
+2025-05-13,3483,Yogurt,13,11.68,8,Montreal,3
+2025-05-17,3484,Onions,11,10.65,10,Ottawa,4
+2025-05-21,3485,Rice,7,17.68,9,Toronto,6
+2025-05-11,3486,Tomatoes,9,48.9,8,Edmonton,6
+2025-05-29,3487,Eggs,5,48.61,5,Vancouver,3
+2025-05-01,3488,Pasta,8,28.05,9,Calgary,4
+2025-05-05,3489,Yogurt,13,34.45,6,Halifax,4
+2025-05-02,3490,Milk,4,37.31,9,Edmonton,5
+2025-05-29,3491,Rice,7,45.0,2,Toronto,2
+2025-05-05,3492,Rice,7,44.3,1,Montreal,5
+2025-05-21,3493,Yogurt,13,48.56,5,Vancouver,4
+2025-05-14,3494,Rice,7,8.12,10,Ottawa,3
+2025-05-03,3495,Pasta,8,35.75,3,Calgary,1
+2025-05-13,3496,Onions,11,27.62,3,Calgary,2
+2025-05-26,3497,Milk,4,8.53,1,Winnipeg,3
+2025-05-28,3498,Potatoes,10,32.99,5,Vancouver,2
+2025-05-18,3499,Onions,11,48.48,7,Montreal,6
+2025-05-07,3500,Potatoes,10,7.96,6,Montreal,6
+2025-05-02,3501,Bread,3,35.52,5,Winnipeg,2
+2025-05-08,3502,Cereal,15,4.11,7,Vancouver,2
+2025-05-11,3503,Bread,3,29.32,3,Calgary,2
+2025-05-23,3504,Chicken Breast,6,11.22,6,Vancouver,5
+2025-05-11,3505,Cereal,15,34.53,9,Ottawa,2
+2025-05-31,3506,Chicken Breast,6,28.09,5,Halifax,2
+2025-05-19,3507,Yogurt,13,9.6,4,Calgary,4
+2025-05-26,3508,Bananas,2,8.48,9,Halifax,1
+2025-05-08,3509,Pasta,8,24.02,5,Vancouver,6
+2025-05-25,3510,Cereal,15,13.93,6,Winnipeg,2
+2025-05-24,3511,Potatoes,10,15.29,6,Calgary,5
+2025-05-05,3512,Chicken Breast,6,26.83,2,Edmonton,6
+2025-05-31,3513,Chicken Breast,6,38.33,5,Calgary,4
+2025-05-13,3514,Yogurt,13,18.71,8,Halifax,2
+2025-05-06,3515,Bread,3,6.07,3,Montreal,6
+2025-05-09,3516,Tomatoes,9,3.2,9,Edmonton,6
+2025-05-22,3517,Cereal,15,19.99,3,Vancouver,5
+2025-05-21,3518,Onions,11,36.82,5,Montreal,5
+2025-05-22,3519,Milk,4,43.14,6,Edmonton,4
+2025-05-17,3520,Eggs,5,33.42,5,Winnipeg,5
+2025-05-13,3521,Chicken Breast,6,13.66,6,Edmonton,4
+2025-05-19,3522,Bananas,2,19.07,1,Edmonton,6
+2025-05-14,3523,Onions,11,37.28,8,Toronto,4
+2025-05-17,3524,Cheese,12,28.94,8,Montreal,4
+2025-05-23,3525,Tomatoes,9,24.95,5,Winnipeg,4
+2025-05-02,3526,Yogurt,13,31.76,8,Montreal,4
+2025-05-18,3527,Yogurt,13,6.17,1,Montreal,5
+2025-05-24,3528,Cheese,12,18.73,2,Toronto,6
+2025-05-21,3529,Eggs,5,29.06,1,Winnipeg,4
+2025-05-13,3530,Potatoes,10,30.99,2,Edmonton,2
+2025-05-20,3531,Chicken Breast,6,5.54,7,Winnipeg,1
+2025-05-26,3532,Bananas,2,40.03,8,Montreal,2
+2025-05-17,3533,Chicken Breast,6,48.94,1,Edmonton,5
+2025-05-19,3534,Cheese,12,47.88,10,Ottawa,3
+2025-05-16,3535,Pasta,8,5.57,7,Toronto,1
+2025-05-05,3536,Tomatoes,9,14.26,9,Edmonton,4
+2025-05-30,3537,Cheese,12,42.51,4,Vancouver,4
+2025-05-08,3538,Bread,3,7.45,9,Montreal,5
+2025-05-10,3539,Bananas,2,11.25,7,Toronto,5
+2025-05-01,3540,Potatoes,10,8.09,2,Montreal,6
+2025-05-05,3541,Chicken Breast,6,16.51,6,Edmonton,5
+2025-05-03,3542,Orange Juice,14,21.26,9,Vancouver,2
+2025-05-06,3543,Potatoes,10,20.09,9,Edmonton,3
+2025-05-22,3544,Onions,11,5.95,1,Winnipeg,3
+2025-05-26,3545,Cheese,12,40.14,5,Vancouver,3
+2025-05-19,3546,Pasta,8,12.97,6,Toronto,5
+2025-05-02,3547,Orange Juice,14,33.53,3,Vancouver,6
+2025-05-02,3548,Potatoes,10,38.71,7,Halifax,3
+2025-05-03,3549,Chicken Breast,6,37.79,6,Edmonton,2
+2025-05-22,3550,Bananas,2,26.09,1,Calgary,3
+2025-05-20,3551,Onions,11,33.83,2,Winnipeg,6
+2025-05-03,3552,Apples,1,49.66,7,Ottawa,2
+2025-05-16,3553,Eggs,5,11.06,7,Winnipeg,1
+2025-05-15,3554,Cereal,15,18.9,10,Winnipeg,2
+2025-05-25,3555,Onions,11,40.92,4,Edmonton,4
+2025-05-04,3556,Bread,3,18.47,3,Vancouver,4
+2025-05-01,3557,Cheese,12,24.74,10,Vancouver,2
+2025-05-07,3558,Rice,7,19.09,2,Ottawa,1
+2025-05-15,3559,Yogurt,13,5.58,5,Toronto,5
+2025-05-21,3560,Yogurt,13,17.28,10,Edmonton,6
+2025-05-15,3561,Bread,3,12.08,4,Winnipeg,4
+2025-05-28,3562,Pasta,8,22.25,10,Edmonton,6
+2025-05-09,3563,Onions,11,43.4,5,Vancouver,4
+2025-05-22,3564,Eggs,5,12.7,2,Toronto,3
+2025-05-01,3565,Bread,3,22.27,2,Montreal,5
+2025-05-26,3566,Rice,7,24.54,5,Montreal,5
+2025-05-30,3567,Eggs,5,18.07,6,Calgary,1
+2025-05-01,3568,Yogurt,13,32.3,9,Halifax,1
+2025-05-30,3569,Cereal,15,20.34,1,Montreal,1
+2025-05-11,3570,Yogurt,13,46.58,5,Edmonton,1
+2025-05-14,3571,Yogurt,13,11.05,4,Calgary,5
+2025-05-27,3572,Yogurt,13,40.61,2,Toronto,2
+2025-05-06,3573,Apples,1,22.06,3,Edmonton,1
+2025-05-08,3574,Pasta,8,8.57,6,Montreal,3
+2025-05-04,3575,Eggs,5,13.29,4,Calgary,2
+2025-05-03,3576,Chicken Breast,6,24.33,2,Winnipeg,6
+2025-05-15,3577,Apples,1,34.05,9,Winnipeg,2
+2025-05-25,3578,Milk,4,18.34,4,Montreal,2
+2025-05-19,3579,Milk,4,13.95,10,Winnipeg,5
+2025-05-02,3580,Apples,1,29.16,10,Winnipeg,2
+2025-05-07,3581,Onions,11,27.24,9,Halifax,6
+2025-05-08,3582,Eggs,5,10.95,7,Edmonton,3
+2025-05-10,3583,Rice,7,26.02,3,Calgary,5
+2025-05-14,3584,Bread,3,13.16,4,Toronto,5
+2025-05-06,3585,Cheese,12,49.28,3,Edmonton,2
+2025-05-24,3586,Potatoes,10,3.54,10,Montreal,5
+2025-05-02,3587,Cereal,15,9.34,10,Ottawa,2
+2025-05-15,3588,Bread,3,15.61,9,Calgary,4
+2025-05-29,3589,Milk,4,4.18,10,Halifax,2
+2025-05-25,3590,Cheese,12,6.68,4,Ottawa,3
+2025-05-09,3591,Rice,7,10.92,5,Toronto,3
+2025-05-21,3592,Cereal,15,33.2,5,Ottawa,5
+2025-05-14,3593,Eggs,5,38.23,9,Calgary,5
+2025-05-02,3594,Rice,7,24.14,7,Edmonton,5
+2025-05-15,3595,Milk,4,7.03,6,Halifax,6
+2025-05-18,3596,Bananas,2,7.33,2,Ottawa,3
+2025-05-24,3597,Pasta,8,34.61,3,Calgary,6
+2025-05-28,3598,Cereal,15,10.05,1,Montreal,3
+2025-05-11,3599,Rice,7,30.45,3,Ottawa,6
+2025-05-31,3600,Yogurt,13,12.62,6,Ottawa,1
+2025-05-03,3601,Cheese,12,44.99,4,Montreal,6
+2025-05-21,3602,Cereal,15,3.57,4,Halifax,6
+2025-05-28,3603,Pasta,8,48.3,10,Montreal,5
+2025-05-30,3604,Cheese,12,34.56,2,Winnipeg,5
+2025-05-22,3605,Orange Juice,14,40.42,7,Toronto,4
+2025-05-04,3606,Rice,7,43.44,10,Vancouver,1
+2025-05-09,3607,Pasta,8,47.42,7,Toronto,6
+2025-05-16,3608,Chicken Breast,6,36.33,3,Ottawa,2
+2025-05-26,3609,Yogurt,13,15.86,3,Ottawa,1
+2025-05-15,3610,Tomatoes,9,8.62,7,Halifax,3
+2025-05-23,3611,Bananas,2,38.33,8,Edmonton,2
+2025-05-09,3612,Onions,11,3.5,6,Calgary,2
+2025-05-01,3613,Cheese,12,43.2,1,Edmonton,2
+2025-05-30,3614,Bananas,2,26.26,1,Calgary,2
+2025-05-06,3615,Bananas,2,46.46,3,Edmonton,1
+2025-05-18,3616,Eggs,5,37.46,4,Toronto,5
+2025-05-11,3617,Cereal,15,22.7,9,Ottawa,1
+2025-05-28,3618,Eggs,5,28.57,2,Vancouver,3
+2025-05-21,3619,Eggs,5,9.87,2,Montreal,6
+2025-05-21,3620,Rice,7,20.09,6,Toronto,6
+2025-05-01,3621,Milk,4,42.68,3,Vancouver,5
+2025-05-05,3622,Potatoes,10,20.35,10,Montreal,3
+2025-05-21,3623,Bananas,2,37.2,1,Edmonton,2
+2025-05-01,3624,Onions,11,45.93,2,Winnipeg,5
+2025-05-08,3625,Apples,1,7.68,8,Edmonton,6
+2025-05-29,3626,Tomatoes,9,8.31,1,Halifax,4
+2025-05-13,3627,Cereal,15,45.34,2,Vancouver,5
+2025-05-19,3628,Cereal,15,4.36,7,Calgary,1
+2025-05-31,3629,Orange Juice,14,40.41,6,Toronto,4
+2025-05-26,3630,Orange Juice,14,5.48,8,Vancouver,3
+2025-05-08,3631,Bread,3,34.66,4,Halifax,6
+2025-05-07,3632,Tomatoes,9,22.3,10,Winnipeg,4
+2025-05-22,3633,Chicken Breast,6,19.94,8,Edmonton,2
+2025-05-19,3634,Bananas,2,38.25,10,Winnipeg,5
+2025-05-15,3635,Bread,3,15.14,2,Edmonton,3
+2025-05-20,3636,Cheese,12,28.53,1,Halifax,5
+2025-05-21,3637,Tomatoes,9,8.51,9,Halifax,6
+2025-05-29,3638,Apples,1,24.32,7,Winnipeg,2
+2025-05-18,3639,Cereal,15,9.47,6,Vancouver,5
+2025-05-31,3640,Cheese,12,18.78,6,Edmonton,5
+2025-05-24,3641,Cheese,12,11.15,1,Ottawa,5
+2025-05-16,3642,Yogurt,13,15.75,9,Montreal,1
+2025-05-22,3643,Eggs,5,22.41,9,Toronto,4
+2025-05-20,3644,Orange Juice,14,49.02,2,Calgary,3
+2025-05-16,3645,Cereal,15,41.86,9,Toronto,4
+2025-05-17,3646,Chicken Breast,6,24.6,2,Vancouver,4
+2025-05-23,3647,Pasta,8,20.34,8,Edmonton,3
+2025-05-16,3648,Orange Juice,14,38.69,6,Montreal,5
+2025-05-19,3649,Potatoes,10,35.47,10,Calgary,5
+2025-05-31,3650,Eggs,5,33.25,8,Winnipeg,5
+2025-05-26,3651,Chicken Breast,6,45.29,4,Montreal,1
+2025-05-07,3652,Orange Juice,14,5.85,7,Toronto,2
+2025-05-06,3653,Apples,1,34.71,5,Ottawa,5
+2025-05-20,3654,Eggs,5,42.92,10,Ottawa,2
+2025-05-05,3655,Cheese,12,38.11,10,Calgary,6
+2025-05-09,3656,Yogurt,13,14.87,5,Edmonton,4
+2025-05-24,3657,Potatoes,10,46.97,1,Halifax,6
+2025-05-19,3658,Rice,7,42.0,4,Edmonton,3
+2025-05-24,3659,Chicken Breast,6,39.58,10,Toronto,6
+2025-05-02,3660,Milk,4,14.14,6,Toronto,6
+2025-05-22,3661,Milk,4,16.54,1,Ottawa,1
+2025-05-24,3662,Bananas,2,20.06,8,Ottawa,4
+2025-05-12,3663,Orange Juice,14,16.71,10,Ottawa,2
+2025-05-06,3664,Pasta,8,47.42,9,Montreal,4
+2025-05-16,3665,Milk,4,38.82,6,Montreal,4
+2025-05-20,3666,Bananas,2,20.14,8,Montreal,6
+2025-05-12,3667,Apples,1,32.68,8,Vancouver,6
+2025-05-30,3668,Apples,1,43.23,10,Ottawa,3
+2025-05-04,3669,Apples,1,49.08,7,Ottawa,5
+2025-05-19,3670,Pasta,8,3.24,1,Halifax,1
+2025-05-31,3671,Bread,3,22.95,7,Edmonton,3
+2025-05-24,3672,Apples,1,37.03,1,Montreal,3
+2025-05-25,3673,Cereal,15,39.49,10,Vancouver,5
+2025-05-18,3674,Potatoes,10,43.13,1,Ottawa,3
+2025-05-31,3675,Potatoes,10,16.63,8,Montreal,3
+2025-05-12,3676,Potatoes,10,38.32,9,Calgary,1
+2025-05-03,3677,Bread,3,3.21,10,Ottawa,1
+2025-05-13,3678,Onions,11,45.89,10,Halifax,3
+2025-05-25,3679,Cheese,12,41.29,3,Vancouver,1
+2025-05-13,3680,Milk,4,9.17,10,Halifax,1
+2025-05-13,3681,Yogurt,13,31.66,9,Calgary,6
+2025-05-17,3682,Milk,4,13.28,5,Montreal,2
+2025-05-16,3683,Tomatoes,9,35.03,5,Toronto,2
+2025-05-01,3684,Tomatoes,9,30.92,2,Ottawa,1
+2025-05-17,3685,Milk,4,39.74,4,Ottawa,2
+2025-05-22,3686,Yogurt,13,28.62,4,Halifax,1
+2025-05-23,3687,Bread,3,28.39,6,Vancouver,3
+2025-05-12,3688,Tomatoes,9,4.35,7,Edmonton,6
+2025-05-06,3689,Milk,4,36.93,8,Vancouver,6
+2025-05-04,3690,Cereal,15,4.37,4,Calgary,4
+2025-05-04,3691,Chicken Breast,6,15.15,5,Ottawa,3
+2025-05-23,3692,Orange Juice,14,38.75,10,Ottawa,5
+2025-05-06,3693,Onions,11,28.83,8,Halifax,5
+2025-05-27,3694,Milk,4,32.51,4,Toronto,1
+2025-05-02,3695,Chicken Breast,6,39.24,3,Calgary,1
+2025-05-30,3696,Bread,3,30.86,4,Edmonton,2
+2025-05-09,3697,Bread,3,25.97,1,Montreal,3
+2025-05-07,3698,Potatoes,10,18.5,4,Edmonton,1
+2025-05-21,3699,Cheese,12,30.47,6,Halifax,6
+2025-05-04,3700,Yogurt,13,43.95,7,Vancouver,5
+2025-05-28,3701,Cereal,15,23.52,2,Calgary,3
+2025-05-15,3702,Potatoes,10,34.41,2,Halifax,5
+2025-05-08,3703,Bananas,2,37.79,5,Calgary,5
+2025-05-09,3704,Bananas,2,2.77,8,Edmonton,4
+2025-05-16,3705,Tomatoes,9,3.53,7,Toronto,1
+2025-05-29,3706,Eggs,5,40.03,9,Montreal,3
+2025-05-21,3707,Cereal,15,28.18,3,Toronto,6
+2025-05-04,3708,Bananas,2,46.4,8,Toronto,3
+2025-05-25,3709,Milk,4,22.13,2,Halifax,5
+2025-05-10,3710,Orange Juice,14,21.94,6,Calgary,2
+2025-05-04,3711,Pasta,8,30.96,2,Calgary,5
+2025-05-03,3712,Pasta,8,45.8,2,Vancouver,6
+2025-05-15,3713,Cheese,12,25.43,10,Vancouver,2
+2025-05-30,3714,Cereal,15,40.05,7,Edmonton,2
+2025-05-16,3715,Tomatoes,9,6.15,3,Edmonton,2
+2025-05-05,3716,Orange Juice,14,19.26,5,Winnipeg,5
+2025-05-23,3717,Orange Juice,14,14.28,8,Ottawa,2
+2025-05-09,3718,Eggs,5,18.5,10,Ottawa,4
+2025-05-12,3719,Bananas,2,13.87,2,Vancouver,5
+2025-05-21,3720,Rice,7,8.63,5,Calgary,5
+2025-05-20,3721,Tomatoes,9,7.26,5,Toronto,1
+2025-05-28,3722,Onions,11,13.21,7,Halifax,5
+2025-05-25,3723,Bread,3,6.86,1,Ottawa,4
+2025-05-08,3724,Cheese,12,43.5,5,Halifax,6
+2025-05-19,3725,Bananas,2,21.31,2,Montreal,4
+2025-05-25,3726,Chicken Breast,6,30.16,2,Ottawa,6
+2025-05-21,3727,Bananas,2,40.59,7,Halifax,2
+2025-05-24,3728,Orange Juice,14,25.8,7,Edmonton,1
+2025-05-03,3729,Bananas,2,48.03,3,Edmonton,3
+2025-05-06,3730,Tomatoes,9,3.57,4,Montreal,3
+2025-05-30,3731,Tomatoes,9,19.29,7,Halifax,5
+2025-05-18,3732,Cereal,15,11.12,4,Calgary,2
+2025-05-21,3733,Cereal,15,26.05,10,Montreal,4
+2025-05-26,3734,Rice,7,46.63,7,Winnipeg,1
+2025-05-06,3735,Onions,11,35.75,6,Calgary,1
+2025-05-29,3736,Eggs,5,23.48,7,Toronto,2
+2025-05-11,3737,Rice,7,17.76,4,Winnipeg,5
+2025-05-30,3738,Rice,7,26.65,6,Vancouver,1
+2025-05-24,3739,Cheese,12,27.88,7,Ottawa,1
+2025-05-01,3740,Apples,1,23.12,3,Winnipeg,3
+2025-05-25,3741,Pasta,8,42.97,10,Toronto,5
+2025-05-06,3742,Eggs,5,40.41,7,Toronto,5
+2025-05-01,3743,Milk,4,41.61,1,Calgary,1
+2025-05-08,3744,Orange Juice,14,15.92,10,Toronto,2
+2025-05-03,3745,Orange Juice,14,43.3,10,Vancouver,3
+2025-05-21,3746,Pasta,8,34.54,3,Ottawa,2
+2025-05-09,3747,Apples,1,17.56,5,Toronto,3
+2025-05-30,3748,Orange Juice,14,28.26,4,Calgary,1
+2025-05-10,3749,Apples,1,36.39,5,Edmonton,2
+2025-05-13,3750,Bread,3,49.69,8,Vancouver,5
+2025-05-18,3751,Milk,4,48.06,2,Vancouver,2
+2025-05-20,3752,Chicken Breast,6,37.97,7,Edmonton,3
+2025-05-27,3753,Bananas,2,20.6,3,Vancouver,6
+2025-05-05,3754,Pasta,8,48.27,6,Montreal,1
+2025-05-02,3755,Orange Juice,14,15.58,1,Ottawa,4
+2025-05-28,3756,Potatoes,10,29.16,5,Vancouver,5
+2025-05-08,3757,Milk,4,39.09,1,Montreal,1
+2025-05-07,3758,Yogurt,13,18.91,10,Vancouver,3
+2025-05-18,3759,Onions,11,34.31,9,Calgary,5
+2025-05-17,3760,Bread,3,27.21,7,Edmonton,5
+2025-05-07,3761,Tomatoes,9,31.94,2,Vancouver,6
+2025-05-19,3762,Potatoes,10,40.3,9,Montreal,3
+2025-05-18,3763,Tomatoes,9,19.54,10,Halifax,5
+2025-05-22,3764,Orange Juice,14,20.44,5,Winnipeg,1
+2025-05-08,3765,Cheese,12,6.68,10,Calgary,6
+2025-05-12,3766,Tomatoes,9,45.0,6,Calgary,4
+2025-05-13,3767,Bananas,2,31.15,8,Montreal,1
+2025-05-05,3768,Bananas,2,32.69,3,Winnipeg,1
+2025-05-29,3769,Eggs,5,43.5,1,Edmonton,1
+2025-05-24,3770,Chicken Breast,6,33.72,6,Toronto,2
+2025-05-18,3771,Yogurt,13,11.54,2,Edmonton,1
+2025-05-22,3772,Potatoes,10,6.25,9,Toronto,1
+2025-05-01,3773,Apples,1,47.99,9,Winnipeg,4
+2025-05-01,3774,Yogurt,13,34.79,6,Calgary,5
+2025-05-14,3775,Yogurt,13,34.8,3,Toronto,4
+2025-05-16,3776,Potatoes,10,7.8,4,Calgary,6
+2025-05-15,3777,Rice,7,5.41,10,Toronto,4
+2025-05-13,3778,Apples,1,32.95,3,Montreal,2
+2025-05-22,3779,Rice,7,24.25,7,Ottawa,1
+2025-05-11,3780,Eggs,5,20.95,7,Vancouver,4
+2025-05-08,3781,Milk,4,13.84,1,Edmonton,5
+2025-05-29,3782,Pasta,8,32.97,9,Edmonton,4
+2025-05-12,3783,Pasta,8,36.06,2,Vancouver,1
+2025-05-10,3784,Bread,3,9.59,6,Vancouver,6
+2025-05-15,3785,Onions,11,27.8,10,Toronto,5
+2025-05-08,3786,Bananas,2,10.07,9,Montreal,5
+2025-05-29,3787,Cereal,15,36.67,1,Montreal,5
+2025-05-20,3788,Yogurt,13,21.31,1,Winnipeg,5
+2025-05-19,3789,Chicken Breast,6,41.45,6,Calgary,5
+2025-05-02,3790,Bananas,2,30.9,2,Montreal,6
+2025-05-15,3791,Cheese,12,33.86,4,Edmonton,5
+2025-05-11,3792,Cereal,15,27.62,6,Toronto,1
+2025-05-09,3793,Bananas,2,32.98,2,Winnipeg,2
+2025-05-15,3794,Bananas,2,49.07,9,Edmonton,6
+2025-05-29,3795,Bananas,2,5.99,6,Toronto,2
+2025-05-19,3796,Pasta,8,39.34,1,Ottawa,6
+2025-05-25,3797,Pasta,8,29.17,1,Toronto,4
+2025-05-27,3798,Tomatoes,9,5.04,7,Toronto,2
+2025-05-26,3799,Milk,4,33.24,5,Vancouver,1
+2025-05-05,3800,Milk,4,21.15,3,Edmonton,3
+2025-05-11,3801,Bread,3,21.96,4,Halifax,1
+2025-05-13,3802,Apples,1,2.12,6,Montreal,6
+2025-05-11,3803,Rice,7,46.28,3,Vancouver,5
+2025-05-08,3804,Cereal,15,24.19,3,Winnipeg,5
+2025-05-08,3805,Potatoes,10,21.21,1,Winnipeg,4
+2025-05-25,3806,Orange Juice,14,14.11,8,Vancouver,6
+2025-05-22,3807,Chicken Breast,6,37.65,3,Montreal,4
+2025-05-04,3808,Eggs,5,19.64,4,Calgary,1
+2025-05-04,3809,Bread,3,29.33,10,Ottawa,5
+2025-05-25,3810,Eggs,5,48.18,4,Vancouver,6
+2025-05-12,3811,Cheese,12,48.06,9,Vancouver,6
+2025-05-02,3812,Rice,7,42.85,4,Edmonton,3
+2025-05-28,3813,Apples,1,23.24,4,Toronto,1
+2025-05-08,3814,Chicken Breast,6,46.33,4,Calgary,1
+2025-05-10,3815,Eggs,5,34.41,4,Vancouver,6
+2025-05-03,3816,Cereal,15,14.38,1,Halifax,3
+2025-05-07,3817,Bananas,2,6.37,3,Ottawa,4
+2025-05-13,3818,Potatoes,10,17.93,6,Winnipeg,3
+2025-05-15,3819,Bananas,2,32.95,7,Winnipeg,4
+2025-05-18,3820,Bread,3,29.6,4,Vancouver,1
+2025-05-10,3821,Bananas,2,41.01,3,Winnipeg,6
+2025-05-10,3822,Pasta,8,24.94,1,Toronto,2
+2025-05-15,3823,Potatoes,10,10.98,3,Halifax,2
+2025-05-09,3824,Eggs,5,31.46,7,Toronto,2
+2025-05-01,3825,Bread,3,27.2,5,Calgary,6
+2025-05-15,3826,Milk,4,13.16,9,Vancouver,6
+2025-05-17,3827,Cheese,12,42.43,8,Calgary,5
+2025-05-30,3828,Milk,4,15.14,7,Winnipeg,1
+2025-05-29,3829,Chicken Breast,6,23.32,5,Edmonton,4
+2025-05-12,3830,Pasta,8,6.52,9,Halifax,2
+2025-05-18,3831,Potatoes,10,28.05,9,Edmonton,3
+2025-05-29,3832,Bananas,2,14.05,9,Vancouver,4
+2025-05-09,3833,Onions,11,21.66,4,Halifax,1
+2025-05-17,3834,Yogurt,13,5.33,1,Halifax,3
+2025-05-03,3835,Cheese,12,28.32,6,Toronto,1
+2025-05-22,3836,Orange Juice,14,4.75,6,Halifax,6
+2025-05-13,3837,Tomatoes,9,18.26,4,Calgary,1
+2025-05-25,3838,Eggs,5,31.51,5,Halifax,4
+2025-05-15,3839,Cereal,15,8.33,3,Vancouver,5
+2025-05-28,3840,Pasta,8,14.76,10,Edmonton,5
+2025-05-21,3841,Chicken Breast,6,5.33,5,Halifax,5
+2025-05-25,3842,Tomatoes,9,27.45,9,Montreal,5
+2025-05-23,3843,Bananas,2,45.3,3,Ottawa,4
+2025-05-06,3844,Potatoes,10,26.21,8,Ottawa,2
+2025-05-16,3845,Onions,11,47.25,8,Halifax,1
+2025-05-02,3846,Bread,3,40.59,5,Calgary,5
+2025-05-23,3847,Cheese,12,24.37,10,Montreal,5
+2025-05-16,3848,Cereal,15,10.2,4,Vancouver,4
+2025-05-13,3849,Onions,11,14.79,9,Winnipeg,2
+2025-05-06,3850,Yogurt,13,20.4,10,Ottawa,5
+2025-05-12,3851,Cheese,12,38.94,8,Calgary,6
+2025-05-23,3852,Eggs,5,20.24,7,Calgary,1
+2025-05-26,3853,Tomatoes,9,35.93,7,Edmonton,3
+2025-05-29,3854,Eggs,5,41.84,3,Montreal,6
+2025-05-21,3855,Bread,3,4.98,2,Vancouver,1
+2025-05-21,3856,Orange Juice,14,36.33,3,Montreal,1
+2025-05-09,3857,Cheese,12,47.61,1,Montreal,6
+2025-05-19,3858,Tomatoes,9,3.4,7,Ottawa,3
+2025-05-04,3859,Cereal,15,15.71,3,Montreal,2
+2025-05-20,3860,Tomatoes,9,36.57,2,Vancouver,2
+2025-05-15,3861,Eggs,5,7.25,3,Ottawa,6
+2025-05-23,3862,Apples,1,20.31,10,Toronto,3
+2025-05-05,3863,Bananas,2,9.47,7,Montreal,3
+2025-05-15,3864,Cereal,15,22.59,5,Toronto,6
+2025-05-01,3865,Bread,3,31.12,6,Calgary,5
+2025-05-27,3866,Tomatoes,9,28.38,7,Halifax,2
+2025-05-18,3867,Milk,4,45.38,9,Winnipeg,6
+2025-05-05,3868,Orange Juice,14,27.12,2,Montreal,1
+2025-05-03,3869,Yogurt,13,49.29,9,Edmonton,1
+2025-05-29,3870,Apples,1,41.95,4,Vancouver,1
+2025-05-04,3871,Tomatoes,9,40.19,8,Ottawa,1
+2025-05-20,3872,Tomatoes,9,24.1,2,Calgary,6
+2025-05-01,3873,Eggs,5,44.31,8,Halifax,5
+2025-05-14,3874,Chicken Breast,6,18.94,1,Calgary,6
+2025-05-01,3875,Cheese,12,16.27,10,Calgary,6
+2025-05-30,3876,Pasta,8,33.32,2,Winnipeg,1
+2025-05-21,3877,Eggs,5,48.76,1,Edmonton,5
+2025-05-04,3878,Yogurt,13,29.66,7,Vancouver,4
+2025-05-19,3879,Apples,1,2.32,2,Montreal,5
+2025-05-18,3880,Apples,1,37.35,10,Vancouver,3
+2025-05-19,3881,Chicken Breast,6,26.23,10,Halifax,1
+2025-05-08,3882,Bread,3,43.81,1,Ottawa,3
+2025-05-06,3883,Rice,7,28.69,10,Montreal,2
+2025-05-15,3884,Onions,11,27.41,8,Vancouver,2
+2025-05-11,3885,Yogurt,13,37.81,2,Ottawa,3
+2025-05-06,3886,Onions,11,36.15,6,Toronto,3
+2025-05-03,3887,Pasta,8,38.37,4,Ottawa,6
+2025-05-21,3888,Orange Juice,14,49.91,1,Toronto,6
+2025-05-11,3889,Bananas,2,3.51,9,Montreal,3
+2025-05-01,3890,Eggs,5,39.14,10,Winnipeg,5
+2025-05-19,3891,Tomatoes,9,6.22,5,Ottawa,1
+2025-05-22,3892,Potatoes,10,18.84,6,Calgary,6
+2025-05-12,3893,Milk,4,16.72,2,Edmonton,5
+2025-05-20,3894,Bananas,2,6.27,7,Edmonton,4
+2025-05-09,3895,Orange Juice,14,43.78,6,Calgary,1
+2025-05-19,3896,Cheese,12,20.22,9,Winnipeg,6
+2025-05-26,3897,Chicken Breast,6,23.96,2,Edmonton,3
+2025-05-22,3898,Chicken Breast,6,10.98,5,Montreal,4
+2025-05-07,3899,Tomatoes,9,9.79,5,Toronto,6
+2025-05-10,3900,Eggs,5,33.79,4,Montreal,5
+2025-05-03,3901,Pasta,8,24.0,4,Ottawa,1
+2025-05-28,3902,Chicken Breast,6,16.77,1,Toronto,5
+2025-05-21,3903,Pasta,8,31.73,3,Winnipeg,4
+2025-05-10,3904,Orange Juice,14,11.07,2,Winnipeg,1
+2025-05-01,3905,Pasta,8,49.57,2,Winnipeg,1
+2025-05-26,3906,Rice,7,21.48,2,Edmonton,3
+2025-05-09,3907,Bread,3,14.12,8,Montreal,1
+2025-05-25,3908,Pasta,8,22.62,6,Winnipeg,5
+2025-05-29,3909,Cereal,15,48.91,7,Edmonton,6
+2025-05-04,3910,Bananas,2,11.11,10,Calgary,1
+2025-05-27,3911,Cereal,15,34.9,5,Winnipeg,2
+2025-05-02,3912,Rice,7,11.71,2,Calgary,2
+2025-05-07,3913,Milk,4,26.3,4,Ottawa,1
+2025-05-05,3914,Milk,4,4.51,8,Edmonton,4
+2025-05-20,3915,Orange Juice,14,20.7,5,Calgary,5
+2025-05-04,3916,Milk,4,18.18,2,Toronto,2
+2025-05-09,3917,Bananas,2,45.45,4,Winnipeg,4
+2025-05-05,3918,Apples,1,42.86,10,Ottawa,1
+2025-05-07,3919,Milk,4,2.89,3,Winnipeg,4
+2025-05-24,3920,Cheese,12,29.68,6,Winnipeg,5
+2025-05-03,3921,Pasta,8,19.53,10,Winnipeg,3
+2025-05-08,3922,Milk,4,18.67,4,Vancouver,1
+2025-05-26,3923,Rice,7,48.06,6,Calgary,6
+2025-05-26,3924,Orange Juice,14,42.39,2,Ottawa,6
+2025-05-13,3925,Bread,3,31.92,6,Ottawa,2
+2025-05-01,3926,Yogurt,13,30.11,8,Montreal,6
+2025-05-22,3927,Onions,11,32.77,8,Montreal,3
+2025-05-04,3928,Onions,11,11.1,5,Ottawa,2
+2025-05-24,3929,Yogurt,13,47.15,6,Edmonton,3
+2025-05-01,3930,Apples,1,13.16,4,Montreal,3
+2025-05-11,3931,Tomatoes,9,45.8,10,Montreal,3
+2025-05-30,3932,Yogurt,13,21.19,9,Winnipeg,3
+2025-05-10,3933,Onions,11,29.02,1,Montreal,2
+2025-05-04,3934,Milk,4,41.2,7,Edmonton,6
+2025-05-28,3935,Cheese,12,44.43,9,Toronto,6
+2025-05-02,3936,Potatoes,10,25.77,8,Halifax,6
+2025-05-27,3937,Rice,7,37.95,3,Vancouver,4
+2025-05-15,3938,Chicken Breast,6,17.76,4,Vancouver,4
+2025-05-16,3939,Rice,7,17.35,10,Calgary,3
+2025-05-28,3940,Tomatoes,9,45.48,4,Halifax,2
+2025-05-09,3941,Cereal,15,31.38,8,Edmonton,5
+2025-05-02,3942,Rice,7,38.64,6,Winnipeg,4
+2025-05-15,3943,Bread,3,45.18,1,Edmonton,5
+2025-05-12,3944,Milk,4,29.7,8,Calgary,6
+2025-05-21,3945,Cheese,12,46.64,9,Winnipeg,5
+2025-05-11,3946,Potatoes,10,2.96,4,Edmonton,1
+2025-05-25,3947,Onions,11,35.85,2,Vancouver,3
+2025-05-17,3948,Pasta,8,47.91,10,Winnipeg,5
+2025-05-08,3949,Apples,1,17.95,6,Toronto,5
+2025-05-02,3950,Tomatoes,9,41.81,9,Winnipeg,6
+2025-05-11,3951,Onions,11,36.37,1,Edmonton,5
+2025-05-30,3952,Bananas,2,42.14,8,Ottawa,6
+2025-05-19,3953,Rice,7,12.8,10,Winnipeg,5
+2025-05-24,3954,Onions,11,14.36,10,Winnipeg,1
+2025-05-20,3955,Cereal,15,37.43,5,Montreal,3
+2025-05-15,3956,Pasta,8,39.15,3,Ottawa,3
+2025-05-17,3957,Pasta,8,35.45,8,Winnipeg,2
+2025-05-25,3958,Yogurt,13,31.57,2,Ottawa,6
+2025-05-24,3959,Yogurt,13,28.14,10,Winnipeg,2
+2025-05-24,3960,Milk,4,39.9,9,Montreal,3
+2025-05-06,3961,Bread,3,10.2,3,Halifax,3
+2025-05-14,3962,Cereal,15,22.48,5,Vancouver,6
+2025-05-14,3963,Bread,3,21.06,2,Vancouver,2
+2025-05-21,3964,Cheese,12,24.52,4,Edmonton,3
+2025-05-07,3965,Pasta,8,8.97,2,Toronto,2
+2025-05-07,3966,Apples,1,17.46,4,Montreal,5
+2025-05-15,3967,Apples,1,32.36,7,Vancouver,6
+2025-05-30,3968,Cheese,12,4.15,10,Ottawa,1
+2025-05-29,3969,Eggs,5,29.15,8,Edmonton,1
+2025-05-24,3970,Cereal,15,23.61,8,Toronto,5
+2025-05-11,3971,Potatoes,10,21.09,9,Montreal,5
+2025-05-23,3972,Orange Juice,14,49.36,1,Calgary,5
+2025-05-17,3973,Potatoes,10,23.51,3,Montreal,4
+2025-05-15,3974,Eggs,5,15.2,5,Vancouver,2
+2025-05-24,3975,Eggs,5,7.6,2,Toronto,2
+2025-05-08,3976,Orange Juice,14,20.46,2,Halifax,1
+2025-05-10,3977,Onions,11,47.26,1,Montreal,6
+2025-05-05,3978,Onions,11,37.42,7,Toronto,5
+2025-05-03,3979,Onions,11,22.65,1,Edmonton,3
+2025-05-19,3980,Yogurt,13,16.76,8,Calgary,1
+2025-05-17,3981,Cereal,15,29.42,9,Calgary,2
+2025-05-28,3982,Milk,4,4.66,5,Edmonton,3
+2025-05-23,3983,Eggs,5,7.43,9,Calgary,4
+2025-05-09,3984,Milk,4,34.49,9,Montreal,2
+2025-05-10,3985,Yogurt,13,38.48,6,Toronto,5
+2025-05-17,3986,Onions,11,48.26,8,Winnipeg,4
+2025-05-23,3987,Bananas,2,19.43,7,Calgary,2
+2025-05-09,3988,Bread,3,3.24,5,Winnipeg,1
+2025-05-08,3989,Bread,3,2.32,5,Halifax,4
+2025-05-24,3990,Apples,1,18.61,9,Montreal,5
+2025-05-01,3991,Bread,3,8.36,6,Toronto,2
+2025-05-26,3992,Tomatoes,9,12.51,9,Winnipeg,2
+2025-05-05,3993,Cheese,12,44.73,4,Toronto,3
+2025-05-09,3994,Tomatoes,9,29.43,5,Vancouver,4
+2025-05-12,3995,Tomatoes,9,49.17,9,Montreal,1
+2025-05-21,3996,Chicken Breast,6,49.34,10,Edmonton,1
+2025-05-28,3997,Pasta,8,3.72,2,Toronto,1
+2025-05-05,3998,Orange Juice,14,4.54,9,Vancouver,4
+2025-05-25,3999,Yogurt,13,11.31,6,Toronto,4
