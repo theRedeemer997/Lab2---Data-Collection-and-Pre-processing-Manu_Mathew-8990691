@@ -207,3 +207,5 @@ cython_debug/
 
 
 
+data/cleaned_data.parquet
+data/cleaned_json_data
